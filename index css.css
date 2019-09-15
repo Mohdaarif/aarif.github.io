@@ -3,7 +3,10 @@ li:hover{
     height: 40px;
     
   }
-  .nav li{
+   li{
+    
+  font-family: 'Rubik', sans-serif;
+ }
            list-style-type: none;
            display: inline-block;
   }
